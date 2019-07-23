@@ -2,12 +2,8 @@
 
 Especial para monitores 4:3
  
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
+![Test Image 1](https://github.com/DOCK-PI3/es-theme-XegasPi/blob/master/assets/systems_H.png)
 
-![Test Image 5](https://.../3DTest.png)
+![Test Image 2](https://github.com/DOCK-PI3/es-theme-XegasPi/blob/master/assets/gamelist_vad.png)
 
-![Test Image 6](master/3DTest.png)
-
-![Test Image 7](https://github.com/tograh/testrepository/master/3DTest.png)
-
-![Test Image 8](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
+![Test Image 3](https://github.com/DOCK-PI3/es-theme-XegasPi/blob/master/assets/gamelist_bg_basic-grid.png)
