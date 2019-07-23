@@ -336,7 +336,6 @@ INFO: Theme base para crear desde cero de una forma facil!
 
 		<gridtile name="default">
 			<size>0.208 0.21</size>
-			<maxSize>0.208 0.21</maxSize>
 			<backgroundImage>./assets/selector.png</backgroundImage>
 			<backgroundColor>00000000</backgroundColor>
 		</gridtile>
