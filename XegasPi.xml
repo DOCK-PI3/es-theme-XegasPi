@@ -322,28 +322,27 @@ INFO: Theme base para crear desde cero de una forma facil!
 		</helpsystem>
 		
 		<image name="logo">
-			<pos>0.85 0.039</pos>
+			<pos>0.82 0.039</pos>
 			<maxSize>0.22 0.1</maxSize>
 			<size>0.2 0.09</size>
 			<origin>0 0</origin>
 		</image>
 
 		<imagegrid name="gamegrid">
-			<pos>0.246 0.25</pos>
-			<size>0.72 0.59</size>
+			<pos>0.246 0.27</pos>
+			<size>0.74 0.59</size>
 			<margin>0.096 0.05</margin>
 		</imagegrid>
 
 		<gridtile name="default">
-			<size>0.2051 0.28</size>
+			<size>0.1951 0.32</size>
 			<backgroundImage>./assets/selector.png</backgroundImage>
 			<backgroundColor>00000000</backgroundColor>
 		</gridtile>
 
 		<gridtile name="selected">
-			<size>0.2557 0.4</size>
+			<size>0.2157 0.34</size>
 			<backgroundColor>ffffff90</backgroundColor>
-		</gridtile>
-		
+		</gridtile>	
 	</view>
 	</theme>
