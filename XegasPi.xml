@@ -329,19 +329,19 @@ INFO: Theme base para crear desde cero de una forma facil!
 		</image>
 
 		<imagegrid name="gamegrid">
-			<pos>0.2 0.278</pos>
-			<size>0.88 0.59</size>
-			<margin>0.096 0.05</margin>
+			<pos>0.17 0.278</pos>
+			<size>0.8 0.59</size>
+			<margin>0.08 0.04</margin>
 		</imagegrid>
 
 		<gridtile name="default">
-			<size>0.208 0.21</size>
+			<size>0.35 0.35</size>
 			<backgroundImage>./assets/selector.png</backgroundImage>
 			<backgroundColor>00000000</backgroundColor>
 		</gridtile>
 
 		<gridtile name="selected">
-			<size>0.2157 0.22</size>
+			<size>0.36 0.36</size>
 			<backgroundColor>ffffff90</backgroundColor>
 		</gridtile>	
 	</view>
